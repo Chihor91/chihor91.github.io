@@ -1,11 +1,12 @@
 body {
-    background-color: darkgreen;
+    background-color: rgb(4, 59, 4);
 }
 h3{
     font-family: 'Courier New', Courier, monospace;
     color: burlywood;
 }
 p{
-    color:bisque;
-    padding-left: 20px;
+    color:rgb(238, 202, 158);
+    padding-left: 35px;
+    font-family: 'Courier New', Courier, monospace;
 }
