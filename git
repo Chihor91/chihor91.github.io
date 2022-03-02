@@ -1,0 +1,23 @@
+[33mcommit 29e1949bb7decf7fb3592e7af31159ed4d4b0c4b[m[33m ([m[1;36mHEAD -> [m[1;32mnewbranch[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: ngarcia <ngarcia@up.edu.ph>
+Date:   Wed Mar 2 13:55:43 2022 +0800
+
+    Made style adjustments
+
+[33mcommit f2af7766d42b0a2ebdefe480935f4899b1c70fb6[m
+Author: ngarcia <ngarcia@up.edu.ph>
+Date:   Wed Mar 2 13:49:19 2022 +0800
+
+    Added CSS
+
+[33mcommit 829a9520b7447e3b4520a2c563be4021a2bdbd70[m
+Author: ngarcia <ngarcia@up.edu.ph>
+Date:   Wed Mar 2 12:44:40 2022 +0800
+
+    Renamed file
+
+[33mcommit 31a8d58b5bd7c9076af6ae8902e8d9a5250294e9[m
+Author: ngarcia <ngarcia@up.edu.ph>
+Date:   Wed Mar 2 12:39:24 2022 +0800
+
+    Wrote base HTML
